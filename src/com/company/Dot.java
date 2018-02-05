@@ -17,7 +17,7 @@ public class Dot {
         this.y = y;
     }
 
-    public Dot(int x, int y, String spalva) {
+    public Dot(double x, double y, String spalva) {
         this.x = x;
         this.y = y;
         this.spalva = spalva;

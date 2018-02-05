@@ -1,0 +1,10 @@
+10|10|raudona
+12|15|geltona
+16|185|melyna
+22|9|ruda
+-6|-30|ruzava
+35|187|zalia
+-9|9|juoda
+0|0|raudona
+-1000|-1000|raudona
+1000|1000|raudona
